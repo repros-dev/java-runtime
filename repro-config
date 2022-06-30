@@ -3,3 +3,9 @@ REPRO_DOCKER_ORG=cirss
 REPRO_IMAGE_TAG=latest
 
 #PARENT_IMAGE=cirss/repro-base:latest
+
+
+image:                  build-image   ## 
+start:                  start-repro   ## 
+
+## 
